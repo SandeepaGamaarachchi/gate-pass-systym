@@ -11,7 +11,7 @@ import myReceiptRoutes from "./routes/myReceiptRoutes.js";
 import approveRoutes from "./routes/approvalRoutes.js";
 import verifyRoutes from "./routes/verifyRoutes.js";
 import dispatchRoutes from "./routes/dispatchroutes.js";
-import adminRouters from "./routes/adminRoutes.js";
+//import adminRouters from "./routes/adminRoutes.js";
 import receiveRoutes from "./routes/receiveRoutes.js";
 import emailRoutes from "./routes/emailRoutes.js";
 
