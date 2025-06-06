@@ -1,6 +1,7 @@
 {
   "name": "gate-pass-backend",
   "version": "1.0.0",
+  "type": "module",
   "main": "server.js",
   "dependencies": {
     "@supabase/supabase-js": "^2.48.1",
